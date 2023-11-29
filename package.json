@@ -29,5 +29,17 @@
     "postcss": "^8.4.21",
     "tailwindcss": "^3.2.6",
     "vite": "^4.1.0"
-  }
+  },
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ManjuDharagond/Portfolio3d.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ManjuDharagond/Portfolio3d/issues"
+  },
+  "homepage": "https://github.com/ManjuDharagond/Portfolio3d#readme"
 }
